@@ -1,3 +1,8 @@
+### Development branch
+
+This is a development branch which WILL break and change all the time.  
+DO NOT USE unless you're really brave.  
+
 ### What it is
 
 Packedpixel raidplaner is an easy to use raid manager for World of Warcraft.
